@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JMEspinoza22.github.io/CalculadoraOnline/static/css/main.b198df90.css",
+    "main.js": "/JMEspinoza22.github.io/CalculadoraOnline/static/js/main.d97ce10d.js",
+    "static/media/calculadora-logo.jpeg": "/JMEspinoza22.github.io/CalculadoraOnline/static/media/calculadora-logo.7da16aa392b48064e4f3.jpeg",
+    "static/media/dev-logo.jpeg": "/JMEspinoza22.github.io/CalculadoraOnline/static/media/dev-logo.86b636b5a9bb484130d0.jpeg",
+    "index.html": "/JMEspinoza22.github.io/CalculadoraOnline/index.html",
+    "main.b198df90.css.map": "/JMEspinoza22.github.io/CalculadoraOnline/static/css/main.b198df90.css.map",
+    "main.d97ce10d.js.map": "/JMEspinoza22.github.io/CalculadoraOnline/static/js/main.d97ce10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b198df90.css",
+    "static/js/main.d97ce10d.js"
+  ]
+}
